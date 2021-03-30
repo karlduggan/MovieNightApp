@@ -1,0 +1,34 @@
+# Movie Night App
+Tired of wasting time searching for a film that you might like that has good ratings. 
+Movie Night is a quick and simple solution to solve this problem, once the user has there
+own account they will be able to click a recommendation button that will recommend a movie 
+that matches there liking.
+
+# Creating the Movie database with SQLite3
+- Title
+- Genre
+- Year Released
+- Brief
+- Movie Poster (image)
+- Ratings ?
+
+# Functionality
+
+- User can create there own account 
+- User can get a random generated list of movies that they haven't seen before
+- User will have a watched list where they can save the movies title which they have already seen before
+
+
+----------
+Poster updating the database
+currently there are only 6969 available posters
+leaving 38487 posters to get
+Using another api to retrieve these posters should help but there are 
+usally a limited amount of requests a user can make with a single api key
+
+API KEY:
+Here is your key: 26cc8f1e
+
+Please append it to all of your API requests,
+
+OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=26cc8f1e
