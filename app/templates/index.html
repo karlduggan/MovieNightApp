@@ -4,12 +4,17 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
     <title>Document</title>
 </head>
 <body>
-    <h1>MovieNight Database</h1>
-    <movie-card></movie-card>
+    <h1>MovieNight Database 2</h1>
+    <movie-card poster="https://m.media-amazon.com/images/M/MV5BNzk1OGU2NmMtNTdhZC00NjdlLWE5YTMtZTQ0MGExZTQzOGQyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"></movie-card>
+    <movie-card title='Movie Title' year="1988" overview="This is one interesting movie about nothing at all" runtime="108" poster="https://m.media-amazon.com/images/M/MV5BODI4ZTI1ZjMtYmE5MC00NTM5LTgwMDgtNWI1ZTI1MDYyOGYyXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg"></movie-card>
+    <movie-card poster="https://m.media-amazon.com/images/M/MV5BNWE1OGExYzQtYzRjOS00MmJhLWE3OTYtZjkzOTNlMjJlZTQ4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_.jpg"></movie-card>
+    <movie-card id='2' poster="https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"></movie-card>
     <div id='output'></div>
+    
     
 
     <script>
@@ -35,4 +40,5 @@
     </script>
 </body>
 <script src="{{ url_for('static', filename='components/moviecard.js') }}"></script>
+<script src="{{ url_for('static', filename='components/flipcard.js') }}"></script>
 </html>
