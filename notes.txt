@@ -26,9 +26,4 @@ leaving 38487 posters to get
 Using another api to retrieve these posters should help but there are 
 usally a limited amount of requests a user can make with a single api key
 
-API KEY:
-Here is your key: 26cc8f1e
 
-Please append it to all of your API requests,
-
-OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=26cc8f1e
