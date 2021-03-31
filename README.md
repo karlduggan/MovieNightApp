@@ -37,5 +37,5 @@ To see your application, access this url in your browser:
 ## Progress Entry
 
 <br/>
-<img src="progress_01.gif">
+<img src="progress_01.png">
 <br/>
