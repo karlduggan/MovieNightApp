@@ -36,7 +36,7 @@ To see your application, access this url in your browser:
   
 ## Progress Entries
 
-31/03/2021
+31/03/2021 - Flip cards added along with 5 star rating component 
 <br/>
 <img src="progress_01.png">
 <br/>
