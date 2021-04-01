@@ -34,8 +34,9 @@ To see your application, access this url in your browser:
 
   http://localhost:5000
   
-## Progress Entry
+## Progress Entries
 
+31/03/2021
 <br/>
 <img src="progress_01.png">
 <br/>
