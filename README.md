@@ -45,7 +45,9 @@ Added:
 *  Bookmark (to the top right corner) - not connected yet to a system
 *  Border around back of card
 *  Director (no data for that yet)
+*  Year and runtime inline 
+*  Overview text scrollable 
 *  Overlay (front of card) dims when hover   
 <br/>
-<img src="card_update_02.png">
+<img src="card_update_02.png"> <img src="card_update_02.png">
 <br/>
