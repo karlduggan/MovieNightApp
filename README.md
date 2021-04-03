@@ -38,14 +38,14 @@ To see your application, access this url in your browser:
 
 31/03/2021 - Flip cards added along with 5 star rating component 
 <br/>
-<img src="card_update_02.png">
+<img src="progress_01.png">
 <br/>
 03/04/2021 - Update to flip cards along with 5 star and half star rating component.
 Added:
-* ** Bookmark (to the top right corner) - not connected yet to a system
-* ** Border around back of card
-* ** Director (no data for that yet)
-* ** Overlay (front of card) dims when hover   
+*  Bookmark (to the top right corner) - not connected yet to a system
+*  Border around back of card
+*  Director (no data for that yet)
+*  Overlay (front of card) dims when hover   
 <br/>
-<img src="progress_01.png">
+<img src="card_update_02.png">
 <br/>
