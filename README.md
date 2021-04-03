@@ -49,5 +49,5 @@ Added:
 *  Overview text scrollable 
 *  Overlay (front of card) dims when hover   
 <br/>
-![img-1](card_update_02.png, "img-1") ![img-2](card_update_02.png, "img-2)
+<img src="card_update_02.png">
 <br/>
