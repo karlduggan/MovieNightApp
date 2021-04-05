@@ -40,6 +40,7 @@ To see your application, access this url in your browser:
 <br/>
 <img src="progress_01.png">
 <br/>
+
 03/04/2021 - Update to flip cards along with 5 star and half star rating component.
 Added:
 *  Bookmark (to the top right corner) - not connected yet to a system
@@ -50,4 +51,12 @@ Added:
 *  Overlay (front of card) dims when hover   
 <br/>
 <img src="card_update_02.png">
+<br/>
+
+05/04/2021 - Created search and nav bar.
+Added:
+*  Search bar added and connect to fetch api to movies
+*  Nav bar added
+<br/>
+<img src="progress_03.png">
 <br/>
