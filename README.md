@@ -60,3 +60,17 @@ Added:
 <br/>
 <img src="progress_03.png">
 <br/>
+
+10/04/2021 - Focused on redisigning components communication and lazy loading
+Added:
+*  Layout responsive and some designs adjusted
+*  Genre dropdown added and connected ( using custom event listeners )
+*  Lazy loading movie cards created ( each component has its own fetch request and takes only an ID attribute )
+*  load in component created ( Communicates via an event listener and fetches users request )
+
+## Known Issues:
+    * Database needs redisgning, dividing the main movie table into separate tables 
+    * New tables needed - Actors, Directors, Writers and ratings ( Rotten Tomato, Imdb, Metacritic )  
+<br/>
+<img src="progress_04.png">
+<br/>
